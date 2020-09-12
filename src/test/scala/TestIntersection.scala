@@ -1,4 +1,3 @@
-package intersection
 
 import org.junit.Test
 

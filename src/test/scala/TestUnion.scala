@@ -1,5 +1,3 @@
-package intersection
-
 import org.junit.Test
 
 case class A(a: String)
